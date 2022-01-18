@@ -1,0 +1,10 @@
+c:\users\ok\source\repos\ex\ex\bin\Debug\ex.exe.config
+c:\users\ok\source\repos\ex\ex\bin\Debug\ex.exe
+c:\users\ok\source\repos\ex\ex\bin\Debug\ex.pdb
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.Form1.resources
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.Properties.Resources.resources
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.csproj.GenerateResource.cache
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.exe
+c:\users\ok\source\repos\ex\ex\obj\Debug\ex.pdb
